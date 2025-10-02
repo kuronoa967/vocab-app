@@ -11,6 +11,8 @@ h1 {
 button {
     width: 250px;
     border-radius: 25px;
+    border: none;
+    border-bottom: solid 5px #0059a0;
     transition: .5s ease;
 }
 

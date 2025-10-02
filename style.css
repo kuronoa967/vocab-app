@@ -12,14 +12,14 @@ button {
     width: 125px;
     border-radius: 10px;
     border: none;
-    border-bottom: solid 5px #1dbdcc;
+    border-bottom: solid 3px #1dbdcc;
     transition: .5s ease;
     background-color: #136dad;
 }
 
 button:hover {
-    transform: translateY(3px);
-    border-bottom-width: 2px;
+    transform: translateY(2px);
+    border-bottom-width: 1px;
 }
 
 li {

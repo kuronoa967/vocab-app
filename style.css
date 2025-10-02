@@ -14,7 +14,7 @@ button {
     border: none;
     border-bottom: solid 3px #136dad;
     transition: .5s ease;
-    background-color: #1dbdcc;
+    background-color: aqua;
 }
 
 button:hover {
